@@ -3,7 +3,7 @@
 cat << 'EOF' >> /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
-   url: 'https://cdn.rawgit.com/laCour/slack-night-mode/master/css/raw/variants/aubergine.css',
+   url: 'https://rawgit.com/nakedsushi/solarized-slack/master/css/solarized.css',
    success: function(css) {
      $("<style></style>").appendTo('head').html(css);
    }
