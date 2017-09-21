@@ -1,6 +1,10 @@
 # solarized-slack
 Solarized (dark) theme for slack that includes the message elements instead of just the sidebar.
 
+
+![solarized slack](images/solarized.png "Solarized Screenshot")
+
+
 ## Getting Started
 1. Download the bash script [here](https://raw.githubusercontent.com/nakedsushi/solarized-slack/master/scripts/solarize-slack.sh)
 1. Run it.
