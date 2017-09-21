@@ -66,7 +66,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #839496; }
 
 #col_channels_collapse_view { background: #2a2f39; }
 
-.p-channel_sidebar { background-color: #2a2f39; color: #839496; }
+.p-channel_sidebar { background-color: #073642; color: #839496; }
 
 .p-channel_sidebar__channel, .p-channel_sidebar__channel:link, .p-channel_sidebar__channel:visited, .p-channel_sidebar__channel:hover, .p-channel_sidebar__link, .p-channel_sidebar__link:link, .p-channel_sidebar__link:visited, .p-channel_sidebar__link:hover { color: rgba(211, 218, 227, 0.8) !important; }
 
@@ -708,7 +708,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .tab_complete_ui .not_in_channel { color: #949494; }
 
-#team_menu { background: #2a2f39; border-bottom: 2px solid #2a2f39; color: #839496; }
+#team_menu { background: #002B36; border-bottom: 2px solid #2a2f39; color: #839496; }
 
 #team_menu.active, #team_menu:hover { background: #2a2f39 !important; border-bottom-color: #2a2f39 !important; }
 
