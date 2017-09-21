@@ -1166,7 +1166,7 @@ ts-mention { background: rgba(133, 137, 145, 0.1) !important; color: #839496 !im
 
 .file_container.image_container .image_body { background-color: #002b36; }
 
-.file_container.image_container .preview_actions .btn { background-color: rgba(133, 137, 145, 0.9); }
+.file_container.image_container .preview_actions .btn { background-color: #073642; }
 
 .file_container.image_container .preview_actions .btn:focus, .file_container.image_container .preview_actions .btn:hover { background-color: #2a2f39; }
 
