@@ -960,7 +960,7 @@ ts-message .pinned_item_message_header { color: #949494; }
 
 ts-message .mention { background: #858991 !important; color: #839496 !important; }
 
-ts-message .internal_member_link { background: #002b36 !important; border: 0; color: #90939b !important; }
+ts-message .internal_member_link { background: #6c71c4 !important; border: 0; color: #002b36 !important; }
 
 ts-message .internal_member_link:hover { color: #90939b !important; }
 
